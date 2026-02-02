@@ -56,19 +56,19 @@ Integração de estruturas de repetição, coleções e entrada de dados do usu�
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
    ```
 
-2. Navegue até a pasta do exercício desejado.
+2. Navegue até a pasta do bloco/questão:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   cd Bloco_03/Questao15_AgenteSaude
    ```
 
-3. Compile e execute:
+3. Compile os arquivos .java:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   javac *.java
    ```
 
 4. Execute a classe de teste:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   java TesteAgenteSaude2
    ```
 
 ## 📈 Evolução e Próximos Passos
