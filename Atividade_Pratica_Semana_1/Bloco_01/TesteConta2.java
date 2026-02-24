@@ -7,6 +7,7 @@ public class TesteConta2 {
         // Criando uma nova conta
         Conta2 conta = new Conta2();
         conta.setNumero(123);
+        
         // Exibindo o número da conta
         System.out.println("Número da conta: " + conta.getNumero());
         System.out.println(); // Pula uma linha
